@@ -14,9 +14,6 @@ public static int search(int arr[], int x)
 
 public static void main(String args[]) 
 { 
-	/*int arr[] = { 2, 3, 4, 10, 40 }; 
-	int x = 10; */
-
 	int n; 
 	Scanner s = new Scanner(System.in);
 	System.out.print("Enter no. of elements you want in array:");

@@ -1,5 +1,5 @@
 /*Recursive implementation of Binary Search*/
-/*import java.util.Scanner;
+import java.util.Scanner;
 class BinarySearch { 
 	int binarySearch(int arr[], int l, int r, int x) 
 	{ 
@@ -41,7 +41,7 @@ class BinarySearch {
 	} 
 } 
 
-*/
+
 
 /*Iterative implementation of Binary Search*/
 
